@@ -10,7 +10,7 @@ https://www.kaggle.com/c/feedback-prize-2021 - competition page for the previous
 
 This image provides a visual representation of the overall research approach and methodology used throughout the project, outlining the sequence of experiments and ensemble methods applied.
 
-![alt text]()
+![alt text](https://github.com/horacemtb/feedback-prize-2022/blob/main/feedback-prize.png)
 
 ## Notebooks Descriptions
 
